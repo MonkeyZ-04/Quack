@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284557119953",
+    "project_id": "hackmedquack",
+    "storage_bucket": "hackmedquack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284557119953:android:8d41940db50409abdf90f0",
+        "android_client_info": {
+          "package_name": "nonthpawit.borntodev.hackhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284557119953-9qtl6u2l77e3224ou8pmscr0t11o7k2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxWwL4wJ7-zEW0U8DEdatrUaM615bYps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284557119953-9qtl6u2l77e3224ou8pmscr0t11o7k2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
