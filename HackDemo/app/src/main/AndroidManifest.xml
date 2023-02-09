@@ -15,35 +15,28 @@
         android:theme="@style/Theme.HackHack"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity3"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+            android:name=".medas1"
+            android:exported="true" />
         <activity
-            android:name=".SecondActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+            android:name=".medcar4"
+            android:exported="true" />
+        <activity
+            android:name=".medpep3"
+            android:exported="true" />
+        <activity
+            android:name=".medkao2"
+            android:exported="true" />
+        <activity
+            android:name=".AllMed"
+            android:exported="true" />
+        <activity
+            android:name=".MedRight"
+            android:exported="true" />
+        <activity
+            android:name=".MedLeft"
+            android:exported="true" />
         <activity
             android:name=".MainActivity2"
-            android:exported="true">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".testpopupdate"
-            android:exported="true">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".Date"
             android:exported="true">
             <meta-data
                 android:name="android.app.lib_name"

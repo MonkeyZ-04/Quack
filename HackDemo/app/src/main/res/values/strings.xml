@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HackHack</string>
+    <string name="q">Q</string>
+    <string name="uack">uack</string>
+    <string name="search_for_more_information_of_drug">Search for more information of drug</string>
+    <string name="dot">....</string>
 </resources>
